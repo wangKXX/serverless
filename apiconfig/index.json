@@ -1,0 +1,24 @@
+[
+  {
+    "apiName": "/mdm/proxy/sku/downloadList",
+    "methodType": "post",
+    "params": {
+        "tenantCode": {
+          "isrequied": true
+        },
+        "page": {
+          "params": {
+            "size": {
+              "isrequied": true
+            },
+            "page": {
+              "isrequied": true
+            }
+          }
+        }
+    },
+    "responeData": {
+
+    }
+  }
+]
